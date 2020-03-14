@@ -1,0 +1,48 @@
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe.config
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.pdb
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csprojResolveAssemblyReference.cache
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Form1.resources
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Properties.Resources.resources
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csproj.GenerateResource.Cache
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.exe
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.pdb
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData.mdf
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData_log.ldf
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Info.resources
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.Designer.cs
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsc
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsd
+E:\Универ\4 семестр\ИСИС\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xss
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe.config
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.exe
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.pdb
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData.mdf
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData_log.ldf
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.Designer.cs
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsc
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsd
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xss
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.pdb
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csprojResolveAssemblyReference.cache
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Form1.resources
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Info.resources
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Properties.Resources.resources
+C:\Users\МУХАММАДЮСУФ\Downloads\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csproj.GenerateResource.Cache
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe.config
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.exe
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.pdb
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData.mdf
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseData_log.ldf
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.Designer.cs
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsc
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xsd
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\BaseDataDataSet.xss
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.exe
+D:\ISIS_laba4\ISIS_laba4\bin\Debug\ISIS_laba4.pdb
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csprojResolveAssemblyReference.cache
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Form1.resources
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Info.resources
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.Properties.Resources.resources
+D:\ISIS_laba4\ISIS_laba4\obj\Debug\ISIS_laba4.csproj.GenerateResource.Cache

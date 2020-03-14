@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<ServerList>
+  <Server>
+    <name>Server Name1 List</name>
+    <ip>127.0.0.1</ip>
+    <dir>/home/directory1</dir>
+  </Server>
+  <Server>
+    <name>Server Name2</name>
+    <ip>127.0.0.1</ip>
+    <dir>/home/directory2</dir>
+  </Server>
+</ServerList>
